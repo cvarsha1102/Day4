@@ -1,0 +1,8 @@
+{
+"name":"Varsha",
+"initial":"C",
+"phoneno":9952571035,
+"email":"cvarsha2002@gmail.com",
+"yearofgraduation":2023,
+"hobbies":{"hobby1":"drawing","hobby2":"gardening"}
+}

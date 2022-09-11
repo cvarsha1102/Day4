@@ -1,0 +1,15 @@
+Window
+*The window object is supported by all browsers.
+*The JavaScript window object sits at the top of the JavaScript Object hierarchy 
+*All global JavaScript objects , functions, and variables automatically become members of the window object
+* It holds things like window.location, window.history, window.screen, window.status, or the window.document
+his window object has the majority of the properties like length, innerWidth, innerHeight, name, if it has been closed
+Document
+*It serves as an entry point into the web page's content, which is the DOM tree
+*When an HTML document is loaded into a web browser , it becomes a document object
+*It is the root node of the HTML document
+*It has properties available to it like title, URL, cookie, etc. 
+
+Screen
+*The Window object also has a screen object with properties describing the physical display:
+*Screen properties width and height are the full screen
